@@ -14,6 +14,7 @@ cd ..
 npm run copyDist
 
 # Ir a la carpeta backend
+git init
 cd backend
 git add -A
 git commit -m 'deploy'
